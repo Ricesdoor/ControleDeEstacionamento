@@ -1,2 +1,2 @@
 # ControleDeEstacionamento
- Página de cadastro e listagem de vagas de estacionamento para um condomínio.
+Trabalho de criação de páginas de cadastro e listagem de vagas de estacionamento para um condomínio.
